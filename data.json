@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "HoloWatch",
+    "type": "Wearable",
+    "features": [
+      "Holographic display",
+      "Health tracking",
+      "5G connectivity"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "SkyDrone",
+    "type": "Aerial Device",
+    "features": [
+      "Autonomous navigation",
+      "4K camera",
+      "Obstacle avoidance"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "EchoBot",
+    "type": "Personal Assistant",
+    "features": [
+      "Voice recognition",
+      "Emotion sensing",
+      "Home automation"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "AeroBike",
+    "type": "Personal Transport",
+    "features": [
+      "Electric motor",
+      "Self-balancing",
+      "AI route optimization"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "NanoChef",
+    "type": "Kitchen Gadget",
+    "features": [
+      "Smart recipe assistant",
+      "AI cooking presets",
+      "Nutritional analysis"
+    ]
+  }
+]
